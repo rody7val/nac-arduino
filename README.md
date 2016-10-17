@@ -7,3 +7,4 @@
 * Modulos en PDF: [https://github.com/rody7val/nac-arduino/tree/master/docs](https://github.com/rody7val/nac-arduino/tree/master/docs)
 * Modulos en PowerPoint: [https://github.com/rody7val/nac-arduino/tree/master/slides](https://github.com/rody7val/nac-arduino/tree/master/docs)
 * Ejercicios: [https://github.com/rody7val/nac-arduino/tree/master/code](https://github.com/rody7val/nac-arduino/tree/master/code)
+* Diseños en circuits.io: [https://circuits.io/users/700309/designs](https://circuits.io/users/700309/designs)
